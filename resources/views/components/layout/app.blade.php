@@ -9,7 +9,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-white">
+<body class="bg-zinc-50">
 
     {{-- Navbar --}}
     <x-layout.navbar></x-layout.navbar>
