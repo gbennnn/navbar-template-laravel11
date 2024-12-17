@@ -3,7 +3,7 @@
     <!-- Logo & Hamburger -->
     <div class="flex justify-between items-center">
         <span class="text-xl font-bold cursor-pointer">
-            <a href="{{ route('home') }}" class="text-white">&#123;Finsweet</a>
+            <a href="{{ route('home') }}" class="text-white">Holaa</a>
         </span>
 
         <!-- Hamburger Menu -->
