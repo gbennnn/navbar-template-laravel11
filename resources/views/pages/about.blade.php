@@ -1,5 +1,5 @@
-<x-app title="About">
+<x-layout.app title="About">
     <section>
         <h1>About</h1>
     </section>
-</x-app>
+</x-layout.app>

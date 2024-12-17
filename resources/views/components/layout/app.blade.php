@@ -12,7 +12,7 @@
 <body class="bg-white">
 
     {{-- Navbar --}}
-    <x-navbar></x-navbar>
+    <x-layout.navbar></x-layout.navbar>
 
 
     {{-- main section --}}

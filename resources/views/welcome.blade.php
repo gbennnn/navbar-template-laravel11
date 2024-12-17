@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+{{-- @section('title', 'Home') --}}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home</title>
-    @vite('resources/css/app.css')
-</head>
-
-<body>
-    <h1 class="text-5xl text-red-600">Welcome</h1>
-</body>
-
-</html>
+<x-layout.app title="Home">
+    <!-- Hero Section -->
+    <section class="relative h-screen text-white py-20 px-6 md:px-20">
+        <h1 class="text-5xl font-bold text-yellow-500">Welcome Laravel</h1>
+    </section>
+</x-layout.app>
